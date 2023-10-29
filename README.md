@@ -1,4 +1,4 @@
-# Road Ride Privacy Policy
+# Road Ride Privacy Policy.
 
 ## Introduction about the app
 Road Ride application is a social application that serves the Road Ride team, and it is a platform to facilitate communication between team members, Display Team Information and advertise activities (trips) organized by the team, in addition to collecting applications from members to join those activities.
